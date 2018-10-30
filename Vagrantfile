@@ -86,3 +86,5 @@ Vagrant.configure("2") do |config|
   git clone https://github.com/FernandoOliveira88/Apache2-vagrant.git /etc/apache2/sites-enabled
   service apache2 restart 
   SHELL
+
+end
